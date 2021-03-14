@@ -1,0 +1,20 @@
+
+mango 1
+goofy 2
+rifat 1
+yoo 1
+sneha 1
+monkey 1
+rifat 5
+sneha 1
+lion 1
+sneha 0
+rifat 1
+goofy 1
+naruto 2
+monkey 3
+naruto 2
+sujit 1
+mamun 1
+sujit 1
+rifat 0
